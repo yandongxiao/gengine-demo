@@ -1,0 +1,28 @@
+# github.com/antlr/antlr4 v0.0.0-20210105192202-5c2b686f95e1
+## explicit
+github.com/antlr/antlr4/runtime/Go/antlr
+# github.com/bilibili/gengine v1.5.7
+## explicit; go 1.13
+github.com/bilibili/gengine/builder
+github.com/bilibili/gengine/context
+github.com/bilibili/gengine/engine
+github.com/bilibili/gengine/internal/base
+github.com/bilibili/gengine/internal/core
+github.com/bilibili/gengine/internal/iantlr/alr
+github.com/bilibili/gengine/internal/iparser
+github.com/bilibili/gengine/internal/iter
+github.com/bilibili/gengine/internal/tool
+# github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
+## explicit
+github.com/golang-collections/collections/stack
+# github.com/google/martian v2.1.0+incompatible
+## explicit
+github.com/google/martian/log
+# github.com/sirupsen/logrus v1.9.0
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
